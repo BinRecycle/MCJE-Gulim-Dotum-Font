@@ -1,5 +1,8 @@
 # Minecraft Gulimche Dotumche Resource Pack
 
+> [!CAUTION]
+> 26.2 버전 이후로 고정폭 버전을 배포 중단하고 비례폭 버전을 기본으로 배포합니다.
+
 <img src="https://github.com/BinRecycle/MCJE-Gulimche-Dotumche-Resource-Pack/blob/main/Preview/preview2.png" width="500" height="500"/>
 
 마인크래프트의 GNU Unifont를 굴림체 또는 돋움체로 변경합니다.<br>
@@ -7,9 +10,6 @@
 
 버전 1.20 이상부터 가장 최신 버전까지 지원합니다.
 
-폰트의 특성상 한글 글리프와 ASCII 문자에 한해 고정폭으로 제작되었습니다.
-
-<br>
 <br>
 
 ## 일본식 자형 지원
@@ -19,6 +19,26 @@
 언어... > 글꼴 설정... > '일본식 자형'을 '켜짐'으로 설정하면 적용됩니다.
 
 <br>
+
+## 변경 범위
+
+해당 리소스팩은 아래 범위의 일부 또는 전체를 변경합니다.
+
+- Basic Latin
+- Latin-1 Supplement
+- Latin Extended-A
+- Latin Extended-B
+- Hangul Jamo
+- Enclosed Alphanumerics
+- CJK Symbols and Punctuation
+- Hiragana
+- Katakana
+- Hangul Compatibility Jamo
+- Enclosed CJK Letters and Months
+- CJK Unified Ideographs
+- Hangul Syllables
+- CJK Compatibility Ideographs
+
 <br>
 
 ## 폰트 출처

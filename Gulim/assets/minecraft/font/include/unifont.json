@@ -10,9 +10,9 @@
                         "Hiragana",
                         "Katakana"
                     ],
-                    "from": "\u3000",
+                    "from": "\u3001",
                     "to": "\u30FF",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 },
                 {
@@ -25,7 +25,7 @@
                     ],
                     "from": "\u3200",
                     "to": "\u9FFF",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 },
                 {
@@ -34,17 +34,8 @@
                     ],
                     "from": "\uF900",
                     "to": "\uFAFF",
-                    "left": 1,
-                    "right": 15
-                },
-                {
-                    "__ranges": [
-                        "Halfwidth and Fullwidth Forms"
-                    ],
-                    "from": "\uFF61",
-                    "to": "\uFF9F",
                     "left": 0,
-                    "right": 6
+                    "right": 15
                 }
             ],
             "filter": {
@@ -57,13 +48,22 @@
             "size_overrides": [
                 {
                     "__ranges": [
+                        "digits"
+                    ],
+                    "from": "\u0030",
+                    "to": "\u0039",
+                    "left": 1,
+                    "right": 7
+                },
+                {
+                    "__ranges": [
                         "CJK Symbols and Punctuation",
                         "Hiragana",
                         "Katakana"
                     ],
                     "from": "\u3001",
                     "to": "\u30FF",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 },
                 {
@@ -76,7 +76,7 @@
                     ],
                     "from": "\u3200",
                     "to": "\u9FFF",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 },
                 {
@@ -85,7 +85,7 @@
                     ],
                     "from": "\u1100",
                     "to": "\u11FF",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 },
                 {
@@ -103,7 +103,7 @@
                     ],
                     "from": "\uA960",
                     "to": "\uA97F",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 },
                 {
@@ -112,7 +112,7 @@
                     ],
                     "from": "\uD7B0",
                     "to": "\uD7FF",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 },
                 {
@@ -130,7 +130,7 @@
                     ],
                     "from": "\uF900",
                     "to": "\uFAFF",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 },
                 {
@@ -139,7 +139,7 @@
                     ],
                     "from": "\uFF01",
                     "to": "\uFF5E",
-                    "left": 1,
+                    "left": 0,
                     "right": 15
                 }
             ]
