@@ -1,4 +1,4 @@
-# Minecraft Gulimche Dotumche Resource Pack
+# Minecraft Gulim Dotum Resource Pack
 
 > [!CAUTION]
 > 26.2 버전 이후로 고정폭 버전을 배포 중단하고 비례폭 버전을 기본으로 배포합니다.
