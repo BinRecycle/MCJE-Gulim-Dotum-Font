@@ -4,7 +4,11 @@
 > 26.2 버전 이후 Unifont 자간 변경으로 인해 고정폭 버전을 배포 중단하고 비례폭 버전을 기본으로 배포합니다.<br>
 > 이전 버전에서는 계속 고정폭 버전을 문제 없이 사용할 수 있습니다.
 
-<img src="https://github.com/BinRecycle/MCJE-Gulimche-Dotumche-Resource-Pack/blob/main/Preview/preview2.png" width="500" height="500"/>
+| ![굴림](Preview/Gulim_Preview.png) | ![돋움](Preview/Dotum_Preview.png) |
+| :--: | :--: |
+| 굴림 | 돋움 |
+
+<br>
 
 마인크래프트의 GNU Unifont를 굴림체 또는 돋움체로 변경합니다.<br>
 알파벳의 자형은 두 폰트 거의 비슷하며 취향에 맞게 굴림과 돋움 중 하나를 택하여 적용하세요.
@@ -13,10 +17,15 @@
 
 <br>
 
-## 일본식 자형 지원
-<img src="https://github.com/BinRecycle/MCJE-Gulimche-Dotumche/blob/main/Preview/Preview_JP.png" width="500" height="500">
+## 일본식 자형 변경
 
-일본어 전용 폰트를 추가했습니다.<br>
+| ![꺼짐](Preview/JPN_Preview_Off.png) | ![켜짐](Preview/JPN_Preview_On.png) |
+| :--: | :--: |
+| 꺼짐 | 켜짐 |
+
+<br>
+
+일본어의 히라가나와 가타카나를 명조 스타일에서 고딕 스타일로 변경합니다.<br>
 언어... > 글꼴 설정... > '일본식 자형'을 '켜짐'으로 설정하면 적용됩니다.
 
 <br>
