@@ -31,14 +31,16 @@
 - Latin Extended-B
 - Hangul Jamo
 - Enclosed Alphanumerics
+- Hangul Compatibility Jamo
+- Enclosed CJK Letters and Months
+- Hangul Syllables
+
+일본식 자형 설정 한정으로는 아래 범위의 일부 또는 전체를 변경합니다.
+
 - CJK Symbols and Punctuation
 - Hiragana
 - Katakana
-- Hangul Compatibility Jamo
-- Enclosed CJK Letters and Months
-- CJK Unified Ideographs
-- Hangul Syllables
-- CJK Compatibility Ideographs
+- Halfwidth and Fullwidth Forms
 
 <br>
 
