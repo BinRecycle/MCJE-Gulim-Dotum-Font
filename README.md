@@ -1,8 +1,8 @@
 # Minecraft Gulim Dotum Resource Pack
 
 > [!CAUTION]
-> 26.2 버전 이후 Unifont 자간 변경으로 인해 고정폭 버전을 배포 중단하고 비례폭 버전을 기본으로 배포합니다.<br>
-> 이전 버전에서는 계속 고정폭 버전을 문제 없이 사용할 수 있습니다.
+> 26.2 버전 이후 고정폭 버전을 배포 중단하고 비례폭 버전만 배포합니다.<br>
+> [이전 버전](https://github.com/BinRecycle/MCJE-Gulim-Dotum-Font/releases/tag/v84)에서 고정폭 버전을 받아 사용할 수 있습니다.
 
 | ![굴림](Preview/Gulim_Preview.png) | ![돋움](Preview/Dotum_Preview.png) |
 | :--: | :--: |
