@@ -54,5 +54,5 @@
 <br>
 
 ## 폰트 출처
-[Google Font - Gulim](https://github.com/googlefonts/gulim)<br>
-[Shinonome font family](http://openlab.ring.gr.jp/efont/shinonome/index.html.en)
+- [Google Font - Gulim](https://github.com/googlefonts/gulim)<br>
+- [Shinonome font family](http://openlab.ring.gr.jp/efont/shinonome/index.html.en)
